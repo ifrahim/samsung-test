@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 # Notes from Developer:
-## Used ag-grid to render contents loaded from api
-## 
+## We can also use ag-grid to render results 
+## Initial solution wasn't working
 
 ## Development server
 
