@@ -1,0 +1,21 @@
+<div class="no-plugin container">
+  <h2>Products:</h2>
+  <ul class="list-unstyled">
+    <li class="header">
+      <ul class="list-unstyled  list-inline">
+        <li class="colId list-inline-item">Id</li>
+        <li class="colName list-inline-item">Product Name</li>
+        <li class="colCode list-inline-item">Model Code</li>
+        <li class="colSerial list-inline-item">Serial No.</li>
+      </ul>
+    </li>
+    <li *ngFor="let product of products">
+      <ul class="list-unstyled list-inline">
+        <li class="colId list-inline-item">{{product.id}}</li>
+        <li class="colName list-inline-item">{{product.productName}}</li>
+        <li class="colCode list-inline-item">{{product.modelCode}}</li>
+        <li class="colSerial list-inline-item">{{product.serialNumber}}</li>
+      </ul>
+    </li>
+  </ul>
+</div>

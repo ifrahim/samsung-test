@@ -1,10 +1,6 @@
-# Products
+# App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
-
-# Notes from Developer:
-## We can also use ag-grid to render results 
-## Initial solution wasn't working
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
 ## Development server
 

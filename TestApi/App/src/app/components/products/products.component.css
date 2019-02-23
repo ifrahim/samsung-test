@@ -1,0 +1,20 @@
+div.no-plugin ul li.header
+{
+  font-weight: bold;
+}
+
+div.no-plugin ul li.colId {
+  width: 100px;
+}
+
+div.no-plugin ul li.colName {
+  width: 400px;
+}
+
+div.no-plugin ul li.colCode {
+  width: 200px;
+}
+
+div.no-plugin ul li.colSerial {
+  width: 200px;
+}
